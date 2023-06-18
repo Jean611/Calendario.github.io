@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(220, 210, 180);
+  }
+  table {
+    margin:auto;
+    border-collapse: collapse;
+    background-color: rgb(231, 238, 219);
+  }
+  th, td {
+    font-family: Arial;
+    border: 2px solid rgb(100, 40, 0);
+    padding-right: 2.5cm;
+    padding-left: 0.5cm;
+  }
+  td{
+    color: rgb(85, 84, 84);
+    text-align: justify;
+  }
+  th {   
+    text-align: center;
+    color:white;  
+    background-color: rgb(224, 181, 156);
+  }
+  h1, h2, h3 {
+    color:rgb(100, 40, 0);
+    font-family:Arial;
+    text-decoration: solid;
+    text-align: center;
+}
+  
